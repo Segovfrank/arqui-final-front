@@ -1,0 +1,14 @@
+.chat-message{
+    width: 75%;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.input-chat{
+    position: relative;
+}
+
+.chat-messages{
+    height: 40vh;
+    overflow-y: scroll;
+}
